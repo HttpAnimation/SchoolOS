@@ -1,0 +1,2 @@
+# SchoolOS
+A School Os
