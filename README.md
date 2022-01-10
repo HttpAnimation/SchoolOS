@@ -1,7 +1,6 @@
 # SchoolOS
-A School Os
-A How to install 
-A Download All files in this github
-A Then Unzip 
-A Open SchoolOS/Content/SchoolOS.html
-A And then your done
+# How to install 
+# Download All files in this github
+# Then Unzip 
+# Open SchoolOS/Content/SchoolOS.html
+# And then your done
